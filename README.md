@@ -1,0 +1,2 @@
+# Quiz Application Using Html Css JavaScript
+ Create an interactive Quiz Application using JavaScript that features a dynamic and user-friendly interface. The project includes a variety of question types, real-time feedback, and score tracking. It leverages HTML and CSS for layout and styling, ensuring responsiveness across devices. Perfect for learning JavaScript fundamentals and enhancing web development skills.
